@@ -20,6 +20,8 @@
 # for memory metrics: 
 *python3 Metrics.py mem*
 
+# Output for cpu and mem
+
 ![image](https://user-images.githubusercontent.com/78022545/110931814-b4ddf700-8350-11eb-8748-591492416227.png)
 
 
