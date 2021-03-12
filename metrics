@@ -1,0 +1,15 @@
+#!/bin/bash
+arg="${1}"
+
+if [[ ${arg} = "cpu" ]]
+then
+        apt-get install -y sysstat
+        echo "arg value is cpu"
+        mpstat
+else
+        if [[ ${arg} = "mem" ]]
+        then
+                echo "arg value is mem"
+                free
+        fi
+fi
