@@ -2,7 +2,7 @@
 
 # install python in linux using below command
 
-*apt install software-properties-common add-apt-repository ppa:deadsnakes/ppa apt update apt install python3.8 -y*
+*apt install software-properties-common* && *add-apt-repository ppa:deadsnakes/ppa* && *apt update* && *apt install python3.8 -y*
 
 # install pip module and psutil library using below commands
 
