@@ -19,5 +19,8 @@
 
 # for memory metrics: 
 *python3 Metrics.py mem*
-![image](https://user-images.githubusercontent.com/78022545/110931578-6fb9c500-8350-11eb-919e-e3a7f4bdf6b9.png)
+
+![image](https://user-images.githubusercontent.com/78022545/110931814-b4ddf700-8350-11eb-8748-591492416227.png)
+
+
 
