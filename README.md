@@ -6,7 +6,9 @@
 
 # install pip module and psutil library using below commands
 
-*apt install python-pip apt install psutil*
+*apt install python-pip*
+*apt install psutil*
+
 
 # clone this repo and execute below commands
 
