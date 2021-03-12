@@ -11,7 +11,9 @@
 *apt install psutil*
 
 
-# clone this repo and execute below commands
+# clone this repo 
+
+https://github.com/tinkudinesh333/Linux-server-Metrics.git
 
 # for cpu metrics: 
 *python3 Metrics.py cpu*
