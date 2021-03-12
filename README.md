@@ -15,5 +15,9 @@
 # for cpu metrics: 
 *python3 Metrics.py cpu*
 
+
+
 # for memory metrics: 
 *python3 Metrics.py mem*
+![image](https://user-images.githubusercontent.com/78022545/110931578-6fb9c500-8350-11eb-919e-e3a7f4bdf6b9.png)
+
